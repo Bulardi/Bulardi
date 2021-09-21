@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Bulardi
+- 👀 I’m interested in gaming,coding,books.
+- 🌱 I’m currently learning The Complete Web Developement in 2021: Zero to Mastery
